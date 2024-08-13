@@ -11,9 +11,6 @@ A simple and elegant Pomodoro Clock application built with React. This app helps
 - Automatic switching between session and break timers
 - Responsive design for various screen sizes
 
-- ## Live Demo
-
-You can view the live project here: [Clock](https://main--calculator-yashjunagade.netlify.app/)
 
 ## Getting Started
 
