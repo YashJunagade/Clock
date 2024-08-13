@@ -9,8 +9,6 @@ A simple and elegant Pomodoro Clock application built with React. This app helps
 - Start, pause, and reset functionality
 - Audio alert when timer reaches zero
 - Automatic switching between session and break timers
-- Responsive design for various screen sizes
-
 
 ## Getting Started
 
