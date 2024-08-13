@@ -1,8 +1,26 @@
-# React + Vite
+# Pomodoro Clock
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and elegant Pomodoro Clock application built with React. This app helps you stay focused and take mindful breaks using the Pomodoro Technique.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Set custom session and break lengths
+- Visual timer display
+- Start, pause, and reset functionality
+- Audio alert when timer reaches zero
+- Automatic switching between session and break timers
+- Responsive design for various screen sizes
+
+- ## Live Demo
+
+You can view the live project here: [Clock](https://main--calculator-yashjunagade.netlify.app/)
+
+## Getting Started
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/YashJunagade/Clock.git
+
+   cd Calculator
+   ```
